@@ -8,7 +8,7 @@
 		<version>3.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.sivanitechtutes</groupId>
+	<groupId>com.irfantechtutes</groupId>
 	<artifactId>customer_orders</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>customer_orders</name>
